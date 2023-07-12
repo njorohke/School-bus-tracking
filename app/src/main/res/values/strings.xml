@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SBT</string>
+    <string name="title_activity_parentmap">parentmap</string>
+    <string name="title_activity_drivermap">drivermap</string>
+    <string-array name="spinner_options">
+        <item>Driver</item>
+        <item>Parent</item>
+    </string-array>
+
+</resources>
